@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="operand_1_Text">Operand 1</string>
+    <string name="operand_2_Text">Operand 2</string>
+    <string name="result_Text">Result</string>
+    <string name="add_Text">Add</string>
+    <string name="subtract_Text">Subtract</string>
+    <string name="multiply_Text">Multiply</string>
+    <string name="divide_Text">Divide</string>
+    <string name="sqrt_Text">SQRT</string>
+    <string name="power_Text">POW(A,B)</string>
+    <string name="clear_Text">CLEAR</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="XavierText">Hello</string>
+    <string name="XavierButton">Click me</string>
+</resources>
